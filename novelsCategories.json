@@ -1,8 +1,21 @@
 {
   "novels_categories": [
       
-      
-          {"category": "عصام صاصا","jsonName": "https://github.com/appsapple/Mahragnat/3asam_sasa.json","image":"https://media.egypttelegraph.com/2024/8/large/28101286820669202408050543594359.jpg"}
+      {"category": "اغاني جديدة","jsonName": "https://github.com/appsapple/Mahragnat/New.json","image":"https://mediaaws.almasryalyoum.com/news/verylarge/2025/02/20/2613504_0.jpg"}،
+    {"category": "اجمد المهرجانات","jsonName": "https://github.com/appsapple/Mahragnat/songs.json","image":"https://i.ytimg.com/vi/3nv3HCd-yHU/maxresdefault.jpg"}،
+       {"category": "عصام صاصا","jsonName": "https://github.com/appsapple/Mahragnat/3asam_sasa.json","image":"https://media.egypttelegraph.com/2024/8/large/28101286820669202408050543594359.jpg"},
+      {"category": "احمد موزة","jsonName": "https://github.com/appsapple/Mahragnat/Ahmed_Moza.json","image":"https://i.ytimg.com/vi/caO8RizMr7w/maxresdefault.jpg"}،
+      {"category": "رضا البحراوي","jsonName": "https://github.com/appsapple/Mahragnat/Reda_Al_Bahrawi.json","image":"https://i.ytimg.com/vi/o5sJyK20Qbg/maxresdefault.jpg"}،
+     {"category": "احمد خطاب","jsonName": "https://github.com/appsapple/Mahragnat/Amin_Khattab.json","image":"https://i.ytimg.com/vi/IfajrUomlSQ/maxresdefault.jpg"}،
+         {"category": "حمو بيكا","jsonName": "https://github.com/appsapple/Mahragnat/Hamo_Becca.json","image":"https://i.ytimg.com/vi/TyYZ65CZmT0/maxresdefault.jpg"}،
+     {"category": "حمو الطيخا","jsonName": "https://github.com/appsapple/Mahragnat/Hamou_El_Tayekha.json","image":"https://i.ytimg.com/vi/hVnVQM6uKLE/maxresdefault.jpg"}،
+     {"category": "حسن شاكوش","jsonName": "https://github.com/appsapple/Mahragnat/Hassan_Shakoush.json","image":"https://i.ytimg.com/vi/glgQkYTrm1E/maxresdefault.jpg"}،
+     {"category": "اسلام كابونجا","jsonName": "https://github.com/appsapple/Mahragnat/Islam_Kabonga.json","image":"https://i.ytimg.com/vi/g2OxDQHYWZ0/maxresdefault.jpg"}،
+         {"category": "مجدي الزهار","jsonName": "https://github.com/appsapple/Mahragnat/Magdy_Al_Zahar.json","image":"https://i.ytimg.com/vi/HKTgMVIQ37o/maxresdefault.jpg"}
+
+
+
+
    
    ]
 
